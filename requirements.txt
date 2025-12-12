@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+pypdf
+python-pptx
+youtube-transcript-api
+gTTS
+graphviz
